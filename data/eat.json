@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Chieftains",
+		"description": "Delicious smoked stuff",
+		"location": "1549 Burwood Hwy, Tecoma VIC 3160",
+		"website": "https://www.chieftainsco.com.au/"
+	},
+	{
+		"title": "Killik",
+		"description": "Salty salty stuff!",
+		"location": "64-68 Monbulk Road, Belgrave, 3160",
+		"website": "https://www.killik.com.au/"
+	},
+	{
+		"title": "The General Food Store",
+		"description": "Mmmmmmmmm",
+		"location": "377 Belgrave-Gembrook Rd Emerald 3782",
+		"website": "https://www.thegeneralfoodstore.com.au/"
+	}
+]

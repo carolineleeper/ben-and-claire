@@ -1,0 +1,43 @@
+.navContainer {
+	max-width: 90vw;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+}
+
+.pagesContainer {
+	flex: 2;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.box {
+	margin: 1rem;
+	padding: 2rem;
+	text-align: center;
+	font-size: 1.75rem;
+	font-weight: bold;
+	box-shadow: 7px 8px 0px 1px #000000;
+	transition: all 0.2s ease-in-out;
+}
+
+.box:nth-child(1) {
+	background: #0ebd98;
+	transform: rotate(1deg);
+}
+.box:nth-child(2) {
+	background: #ef48d5;
+	transform: rotate(-2deg);
+}
+.box:nth-child(3) {
+	background: #444efa;
+	transform: rotate(-1deg);
+}
+.box:nth-child(4) {
+	background: #ff962f;
+	transform: rotate(2deg);
+}
+
+.box:hover {
+	transform: scale(1.1);
+}

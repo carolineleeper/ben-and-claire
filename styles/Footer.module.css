@@ -1,0 +1,24 @@
+.footerContainer {
+	width: fit-content;
+	margin: 1rem auto;
+	padding: 1rem;
+	text-align: center;
+	font-family: Cartoonish;
+	font-size: 2.5rem;
+	color: #e22b59;
+	transition: all 0.2s ease-in-out;
+}
+
+.footerContainer:hover {
+	transform: scale(1.3);
+	animation: flash 0.2s infinite;
+}
+
+@keyframes flash {
+	from {
+		color: #e22b59;
+	}
+	to {
+		color: #008cff;
+	}
+}

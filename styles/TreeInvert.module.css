@@ -1,0 +1,10 @@
+.imageContainer {
+	max-width: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.imageContainer img {
+	width: 100%;
+	transform: scaleX(-1);
+}
