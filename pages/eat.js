@@ -7,7 +7,7 @@ const Eat = () => {
 	return (
 		<div>
 			{eat.map((eatery) => (
-				<div className={styles.container}>
+				<div key={eatery.title} className={styles.container}>
 					<p>{eatery.title}</p>
 					<p>{eatery.description}</p>
 					<p>{eatery.location}</p>
