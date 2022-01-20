@@ -48,3 +48,8 @@
 .box:hover {
 	transform: scale(1.1);
 }
+
+.boxActive {
+	text-decoration-line: underline;
+	text-decoration-style: wavy;
+}

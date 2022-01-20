@@ -1,3 +1,19 @@
 .container {
 	padding: 0 2rem;
 }
+
+.description {
+	background: #e7e7e7;
+	padding: 2rem;
+	margin: 2rem 0;
+	text-align: center;
+	line-height: 1.5;
+	font-size: 1.25rem;
+}
+
+@media screen and (min-width: 600px) {
+	.description {
+		max-width: 80%;
+		margin: 3rem auto;
+	}
+}

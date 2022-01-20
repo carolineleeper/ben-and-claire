@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Epoche",
+		"description": "Super cute ethical children's store. Whimsical and warm.",
+		"location": "77A Monbulk Rd, Kallista VIC 3791",
+		"website": "https://www.epoche.com.au/"
+	},
+	{
+		"title": "Belgrave Emporium",
+		"description": "Vintage clothing and wares, local artists, retro cool stuff.",
+		"location": "1662 Burwood Hwy, Belgrave VIC 3160",
+		"website": "https://www.thebelgraveemporium.com/"
+	},
+	{
+		"title": "Market Fair",
+		"description": "Like the Belgrave Emporium but bigger!",
+		"location": "2/794 Burwood Hwy, Ferntree Gully VIC 3156",
+		"website": "http://www.visitmarketfair.com.au/"
+	},
+	{
+		"title": "Ash and Oak Barbershop",
+		"description": "Coolguy barbershop.",
+		"location": "1708 Burwood Hwy, Belgrave VIC 3160",
+		"website": "https://www.raysteels.com/pages/ash-and-oak-barbershop"
+	},
+	{
+		"title": "Through the Looking Glass",
+		"description": "Secondhand bookshop. Cute and charming.",
+		"location": "1669 Burwood Hwy, Belgrave VIC 3160",
+		"website": "https://www.lookingglassbelgrave.com/"
+	},
+	{
+		"title": "Fleetwood Collection",
+		"description": "Boho/vintage boutique clothing.",
+		"location": "1694 Burwood Hwy, Belgrave VIC 3160",
+		"website": "https://www.fleetwoodcollection.com/"
+	},
+	{
+		"title": "Quirky and the Jackster",
+		"description": "Vintage inspired boutique clothing/things.",
+		"location": "359/359a Mount Dandenong Tourist Rd, Sassafras VIC 3787",
+		"website": "https://quirkyandthejakster.net/"
+	},
+	{
+		"title": "Where the Wild Things Grow",
+		"description": "Indoor plants and cool plant paraphernalia.",
+		"location": "Shop 2/1642 Burwood Hwy, Belgrave VIC 3160",
+		"website": "https://www.facebook.com/wherethewildthingsgrowco"
+	}
+]

@@ -1,0 +1,50 @@
+[
+	{
+		"title": "Eagle Nest Picnic Ground",
+		"description": "Beautiful forest picnic area, tables, fire bbq, lovely child friendly walks",
+		"location": "Eagle Nest Road, Olinda VIC 3788",
+		"website": ""
+	},
+	{
+		"title": "Pirianda Gardens",
+		"description": "Hidden and beautiful. Mossy steps, exotic trees. Spring/Autumnal photography heaven.",
+		"location": "5-9 Hacketts Rd, Olinda VIC 3788",
+		"website": ""
+	},
+	{
+		"title": "The Secret Garden",
+		"description": "Old overgrown nursery, mystical and lovely.",
+		"location": "To be revealed when you move here.",
+		"website": ""
+	},
+	{
+		"title": "Birdsland Reserve",
+		"description": "Lovely scenery, flat walk. You've been, why am I telling you.",
+		"location": "271 Mt Morton Rd, Belgrave Heights VIC 3160",
+		"website": ""
+	},
+	{
+		"title": "Neuman Track",
+		"description": "Gorgeous Sherbrooke forest walk. Pretty flat and pram friendly. Dragon's nests!",
+		"location": "Car park opposite 33 Grantulla Road, Kallista",
+		"website": ""
+	},
+	{
+		"title": "Alfred Nicholas Gardens",
+		"description": "You know the one.",
+		"location": "1A Sherbrooke Rd, Sherbrooke VIC 3789",
+		"website": ""
+	},
+	{
+		"title": "Dandenong Ranges Botanic Garden",
+		"description": "It's botanical.",
+		"location": "The Georgian Rd, Olinda VIC 3788",
+		"website": "https://www.parks.vic.gov.au/places-to-see/parks/dandenong-ranges-botanic-garden"
+	},
+	{
+		"title": "RJ Hamer Arboretum",
+		"description": "Huge and beautiful. Many walks, bike trails, lovely trees. Bonus secret special location to be revealed when you move here.",
+		"location": "10 Chalet Rd, Olinda VIC 3788",
+		"website": ""
+	}
+]

@@ -7,3 +7,13 @@
 .imageContainer img {
 	width: 100%;
 }
+
+@media screen and (max-width: 600px) {
+	.imageContainer {
+		position: fixed;
+		top: 30%;
+		right: 50%;
+		z-index: -1;
+		opacity: 0.5;
+	}
+}

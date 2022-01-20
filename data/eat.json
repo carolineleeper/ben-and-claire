@@ -1,20 +1,80 @@
 [
 	{
 		"title": "Chieftains",
-		"description": "Delicious smoked stuff",
+		"description": "Deli/Cafe. Delicious smoked stuff, cheeses, olives, hot sauces, outrageously tasty sandwiches.",
 		"location": "1549 Burwood Hwy, Tecoma VIC 3160",
 		"website": "https://www.chieftainsco.com.au/"
 	},
 	{
 		"title": "Killik",
-		"description": "Salty salty stuff!",
+		"description": "Gin/rum distillery, brewery. Burger and other food goodness in a super hip venue.",
 		"location": "64-68 Monbulk Road, Belgrave, 3160",
 		"website": "https://www.killik.com.au/"
 	},
 	{
 		"title": "The General Food Store",
-		"description": "Mmmmmmmmm",
+		"description": "Cafe. Everything is delicious, seasonal, yum. But really, our favourite eating place.",
 		"location": "377 Belgrave-Gembrook Rd Emerald 3782",
 		"website": "https://www.thegeneralfoodstore.com.au/"
+	},
+	{
+		"title": "Mad Raven Pizza",
+		"description": "Best pizza you'll ever eat",
+		"location": "78c Monbulk Road, Kallista",
+		"website": "https://www.madravenhotstonepizza.com.au/"
+	},
+	{
+		"title": "The Fat Goat",
+		"description": "Super cool micro pub, all the craft beers ever. Jon might DJ there!",
+		"location": "2 Morris Rd, Upwey VIC 3158",
+		"website": "https://www.facebook.com/fatgoatupwey"
+	},
+	{
+		"title": "Micawber Tavern",
+		"description": "Pub. Open fires, beer garden/forest, live music, good pub food.",
+		"location": "65/71 Monbulk Rd, Belgrave VIC 3160",
+		"website": "https://www.micawbertavern.com.au/"
+	},
+	{
+		"title": "Maria",
+		"description": "Cafe. South American inspired tasty crap. Good coffee.",
+		"location": "56-58 Main St, Upwey VIC 3158",
+		"website": "https://www.mariamelbourne.com.au/"
+	},
+	{
+		"title": "Earthly Pleasures",
+		"description": "Cafe. Ben claims it's the best coffee he has ever had. Beautiful setting, tasty food.",
+		"location": "1627 Burwood Hwy, Belgrave VIC 3160",
+		"website": "https://www.earthlypleasurescafe.com/"
+	},
+	{
+		"title": "Sooki Lounge",
+		"description": "Bar/restaurant/cafe. Cool venue, live music, trivia!",
+		"location": "1648 Burwood Hwy, Belgrave VIC 3160",
+		"website": "http://sookilounge.com.au/"
+	},
+	{
+		"title": "Proserpina Bakehouse",
+		"description": "Bakery/cafe. Baked goods, fresh sourdough bread, best tarts.",
+		"location": "361 Mount Dandenong Tourist Rd, Sassafras VIC 3787",
+		"website": "https://www.facebook.com/Proserpina-Bakehouse-683565208465496/"
+	},
+	{
+		"title": "The Railyard",
+		"description": "Cafe by day, bar by night. Live music, skate videos, cool man works there.",
+		"location": "3/1545 Burwood Hwy, Tecoma VIC 3160",
+		"website": "https://www.thegeneralfoodstore.com.au/"
+	},
+	{
+		"title": "Storehouse Roastery",
+		"description": "Coffee. Excellent coffee.",
+		"location": "1544 Mount Dandenong Tourist Rd, Olinda VIC 3788",
+		"website": "https://www.storehouseroastery.com/"
+	},
+	{
+		"title": "The Independent",
+		"description": "Argentinian inspired fine dining restaurant.",
+		"location": "79 Main St, Gembrook VIC 3783",
+		"website": "https://www.theindependentgembrook.com.au/"
 	}
 ]

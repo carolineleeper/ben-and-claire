@@ -8,3 +8,19 @@
 	width: 100%;
 	transform: scaleX(-1);
 }
+
+@media screen and (max-width: 600px) {
+	.imageContainer {
+		position: fixed;
+		top: 30%;
+		left: 50%;
+		z-index: -1;
+		opacity: 0.5;
+	}
+}
+
+/* @media screen and (max-width: 600px) {
+	.imageContainer {
+		display: none;
+	}
+} */
